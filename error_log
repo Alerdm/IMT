@@ -1,0 +1,144 @@
+[04-Aug-2021 03:37:33 UTC] Error Illegal mix of collations (utf8_general_ci,IMPLICIT) and (utf8mb4_unicode_520_ci,COERCIBLE) for operation 'like' de la base de datos de WordPress para la consulta SELECT SQL_CALC_FOUND_ROWS  wpah_posts.ID FROM wpah_posts  WHERE 1=1  AND (((wpah_posts.post_title LIKE '%hey boy.. :)) My bf cheated on me. 😘www.datingbe.xyz 👄BEST DATING SITE👄 I can’t stand it anymore. Let’s meet and talk about it. 😚️www.datingbe.xyz😙C\'mon 😗️www.datingbe.xyz👄%') OR (wpah_posts.post_excerpt LIKE '%hey boy.. :)) My bf cheated on me. 😘www.datingbe.xyz 👄BEST DATING SITE👄 I can’t stand it anymore. Let’s meet and talk about it. 😚️www.datingbe.xyz😙C\'mon 😗️www.datingbe.xyz👄%') OR (wpah_posts.post_content LIKE '%hey boy.. :)) My bf cheated on me. 😘www.datingbe.xyz 👄BEST DATING SITE👄 I can’t stand it anymore. Let’s meet and talk about it. 😚️www.datingbe.xyz😙C\'mon 😗️www.datingbe.xyz👄%')))  AND (wpah_posts.post_password = '')  AND wpah_posts.post_type IN ('post', 'page', 'attachment', 'e-landing-page') AND (wpah_posts.post_status = 'publish')  ORDER BY (CASE WHEN wpah_posts.post_title LIKE '%hey boy.. :)) My bf cheated on me. 😘www.datingbe.xyz 👄BEST DATING SITE👄 I can’t stand it anymore. Let’s meet and talk about it. 😚️www.datingbe.xyz😙C\'mon 😗️www.datingbe.xyz👄%' THEN 1 WHEN wpah_posts.post_title LIKE '%hey boy.. :)) My bf cheated on me. 😘www.datingbe.xyz 👄BEST DATING SITE👄 I can’t stand it anymore. Let’s meet and talk about it. 😚️www.datingbe.xyz😙C\'mon 😗️www.datingbe.xyz👄%' THEN 2 WHEN wpah_posts.post_excerpt LIKE '%hey boy.. :)) My bf cheated on me. 😘www.datingbe.xyz 👄BEST DATING SITE👄 I can’t stand it anymore. Let’s meet and talk about it. 😚️www.datingbe.xyz😙C\'mon 😗️www.datingbe.xyz👄%' THEN 4 WHEN wpah_posts.post_content LIKE '%hey boy.. :)) My bf cheated on me. 😘www.datingbe.xyz 👄BEST DATING SITE👄 I can’t stand it anymore. Let’s meet and talk about it. 😚️www.datingbe.xyz😙C\'mon 😗️www.datingbe.xyz👄%' THEN 5 ELSE 6 END), wpah_posts.post_date DESC LIMIT 0, 10 realizada por require('wp-blog-header.php'), wp, WP->main, WP->query_posts, WP_Query->query, WP_Query->get_posts
+[04-Aug-2021 03:37:34 UTC] Error Illegal mix of collations (utf8_general_ci,IMPLICIT) and (utf8mb4_unicode_520_ci,COERCIBLE) for operation 'like' de la base de datos de WordPress para la consulta SELECT SQL_CALC_FOUND_ROWS  wpah_posts.ID FROM wpah_posts  WHERE 1=1  AND (((wpah_posts.post_title LIKE '%hey boy.. :)) My bf cheated on me. 😘www.datingbe.xyz 👄BEST DATING SITE👄 I can’t stand it anymore. Let’s meet and talk about it. 😚️www.datingbe.xyz😙C\'mon 😗️www.datingbe.xyz👄%') OR (wpah_posts.post_excerpt LIKE '%hey boy.. :)) My bf cheated on me. 😘www.datingbe.xyz 👄BEST DATING SITE👄 I can’t stand it anymore. Let’s meet and talk about it. 😚️www.datingbe.xyz😙C\'mon 😗️www.datingbe.xyz👄%') OR (wpah_posts.post_content LIKE '%hey boy.. :)) My bf cheated on me. 😘www.datingbe.xyz 👄BEST DATING SITE👄 I can’t stand it anymore. Let’s meet and talk about it. 😚️www.datingbe.xyz😙C\'mon 😗️www.datingbe.xyz👄%')))  AND (wpah_posts.post_password = '')  AND wpah_posts.post_type IN ('post', 'page', 'attachment', 'e-landing-page') AND (wpah_posts.post_status = 'publish')  ORDER BY (CASE WHEN wpah_posts.post_title LIKE '%hey boy.. :)) My bf cheated on me. 😘www.datingbe.xyz 👄BEST DATING SITE👄 I can’t stand it anymore. Let’s meet and talk about it. 😚️www.datingbe.xyz😙C\'mon 😗️www.datingbe.xyz👄%' THEN 1 WHEN wpah_posts.post_title LIKE '%hey boy.. :)) My bf cheated on me. 😘www.datingbe.xyz 👄BEST DATING SITE👄 I can’t stand it anymore. Let’s meet and talk about it. 😚️www.datingbe.xyz😙C\'mon 😗️www.datingbe.xyz👄%' THEN 2 WHEN wpah_posts.post_excerpt LIKE '%hey boy.. :)) My bf cheated on me. 😘www.datingbe.xyz 👄BEST DATING SITE👄 I can’t stand it anymore. Let’s meet and talk about it. 😚️www.datingbe.xyz😙C\'mon 😗️www.datingbe.xyz👄%' THEN 4 WHEN wpah_posts.post_content LIKE '%hey boy.. :)) My bf cheated on me. 😘www.datingbe.xyz 👄BEST DATING SITE👄 I can’t stand it anymore. Let’s meet and talk about it. 😚️www.datingbe.xyz😙C\'mon 😗️www.datingbe.xyz👄%' THEN 5 ELSE 6 END), wpah_posts.post_date DESC LIMIT 0, 10 realizada por require('wp-blog-header.php'), wp, WP->main, WP->query_posts, WP_Query->query, WP_Query->get_posts
+[14-Dec-2021 14:22:26 UTC] PHP Warning:  require(/home3/mundod13/public_html/wp-content/plugins/elementor/includes/plugin.php): failed to open stream: No such file or directory in /home3/mundod13/public_html/wp-content/plugins/elementor/elementor.php on line 54
+[14-Dec-2021 14:22:26 UTC] PHP Warning:  require(/home3/mundod13/public_html/wp-content/plugins/elementor/includes/plugin.php): failed to open stream: No such file or directory in /home3/mundod13/public_html/wp-content/plugins/elementor/elementor.php on line 54
+[14-Dec-2021 14:22:26 UTC] PHP Fatal error:  require(): Failed opening required '/home3/mundod13/public_html/wp-content/plugins/elementor/includes/plugin.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/mundod13/public_html/wp-content/plugins/elementor/elementor.php on line 54
+[25-Jan-2022 14:39:27 UTC] PHP Warning:  include(/home3/mundod13/public_html/wp-content/plugins/wordpress-seo/vendor/composer/../../inc/class-wpseo-replace-vars.php): failed to open stream: No such file or directory in /home3/mundod13/public_html/wp-content/plugins/wordpress-seo/vendor/composer/ClassLoader.php on line 571
+[25-Jan-2022 14:39:27 UTC] PHP Warning:  include(/home3/mundod13/public_html/wp-content/plugins/wordpress-seo/vendor/composer/../../inc/class-wpseo-replace-vars.php): failed to open stream: No such file or directory in /home3/mundod13/public_html/wp-content/plugins/wordpress-seo/vendor/composer/ClassLoader.php on line 571
+[25-Jan-2022 14:39:27 UTC] PHP Warning:  include(): Failed opening '/home3/mundod13/public_html/wp-content/plugins/wordpress-seo/vendor/composer/../../inc/class-wpseo-replace-vars.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/mundod13/public_html/wp-content/plugins/wordpress-seo/vendor/composer/ClassLoader.php on line 571
+[25-Jan-2022 14:39:27 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, class 'WPSEO_Replace_Vars' not found in /home3/mundod13/public_html/wp-includes/class-wp-hook.php on line 303
+[25-Jan-2022 14:39:27 UTC] PHP Warning:  include(/home3/mundod13/public_html/wp-content/plugins/wordpress-seo/vendor/composer/../../src/integrations/admin/addon-installation/dialog-integration.php): failed to open stream: No such file or directory in /home3/mundod13/public_html/wp-content/plugins/wordpress-seo/vendor/composer/ClassLoader.php on line 571
+[25-Jan-2022 14:39:27 UTC] PHP Warning:  include(/home3/mundod13/public_html/wp-content/plugins/wordpress-seo/vendor/composer/../../src/integrations/admin/addon-installation/dialog-integration.php): failed to open stream: No such file or directory in /home3/mundod13/public_html/wp-content/plugins/wordpress-seo/vendor/composer/ClassLoader.php on line 571
+[25-Jan-2022 14:39:27 UTC] PHP Warning:  include(): Failed opening '/home3/mundod13/public_html/wp-content/plugins/wordpress-seo/vendor/composer/../../src/integrations/admin/addon-installation/dialog-integration.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/mundod13/public_html/wp-content/plugins/wordpress-seo/vendor/composer/ClassLoader.php on line 571
+[25-Jan-2022 14:39:27 UTC] PHP Fatal error:  Uncaught Error: Class 'Yoast\WP\SEO\Integrations\Admin\Addon_Installation\Dialog_Integration' not found in /home3/mundod13/public_html/wp-content/plugins/wordpress-seo/src/loader.php:228
+Stack trace:
+#0 /home3/mundod13/public_html/wp-content/plugins/wordpress-seo/src/loader.php(197): Yoast\WP\SEO\Loader->conditionals_are_met('Yoast\\WP\\SEO\\In...')
+#1 /home3/mundod13/public_html/wp-includes/class-wp-hook.php(303): Yoast\WP\SEO\Loader->load_integrations('')
+#2 /home3/mundod13/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#3 /home3/mundod13/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#4 /home3/mundod13/public_html/wp-settings.php(578): do_action('init')
+#5 /home3/mundod13/public_html/wp-config.php(96): require_once('/home3/mundod13...')
+#6 /home3/mundod13/public_html/wp-load.php(50): require_once('/home3/mundod13...')
+#7 /home3/mundod13/public_html/wp-blog-header.php(13): require_once('/home3/mundod13...')
+#8 /home3/mundod13/public_html/index.php(17) in /home3/mundod13/public_html/wp-content/plugins/wordpress-seo/src/loader.php on line 228
+[03-Feb-2022 14:25:34 UTC] PHP Fatal error:  Uncaught Error: Class 'Elementor\Core\Settings\Page\Model' not found in /home3/mundod13/public_html/wp-content/plugins/elementor/core/settings/base/manager.php:311
+Stack trace:
+#0 /home3/mundod13/public_html/wp-content/plugins/elementor/core/settings/base/manager.php(104): Elementor\Core\Settings\Base\Manager->create_model(false)
+#1 /home3/mundod13/public_html/wp-content/plugins/elementskit-lite/modules/onepage-scroll/init.php(60): Elementor\Core\Settings\Base\Manager->get_model(false)
+#2 /home3/mundod13/public_html/wp-content/plugins/elementskit-lite/modules/onepage-scroll/extend-controls.php(117): ElementsKit_Lite\Modules\Onepage_Scroll\Init::get_page_setting('ekit_onepagescr...')
+#3 /home3/mundod13/public_html/wp-includes/class-wp-hook.php(307): Elementor\ElementsKit_Extend_Onepage_Scroll->generate_navigation_markup('')
+#4 /home3/mundod13/public_html/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#5 /home3/mundod13/public_html/wp-includes/plugin.php(474): WP_Hook->do_action(Array)
+ in /home3/mundod13/public_html/wp-content/plugins/elementor/core/settings/base/manager.php on line 311
+[03-Feb-2022 14:25:34 UTC] PHP Fatal error:  Uncaught Error: Class 'Elementor\Core\Logger\Loggers\Logger_Interface' not found in /home3/mundod13/public_html/wp-content/plugins/elementor/core/logger/manager.php:215
+Stack trace:
+#0 /home3/mundod13/public_html/wp-content/plugins/elementor/core/logger/manager.php(47): Elementor\Core\Logger\Manager->get_log_type_from_php_error(1)
+#1 [internal function]: Elementor\Core\Logger\Manager->shutdown()
+#2 {main}
+  thrown in /home3/mundod13/public_html/wp-content/plugins/elementor/core/logger/manager.php on line 215
+[27-Apr-2022 15:41:39 UTC] PHP Fatal error:  Uncaught Error: Class "Elementor\Shapes" not found in /home3/mundod13/public_html/wp-content/plugins/elementor/includes/elements/section.php:947
+Stack trace:
+#0 /home3/mundod13/public_html/wp-content/plugins/elementor/includes/base/controls-stack.php(2282): Elementor\Element_Section->register_controls()
+#1 /home3/mundod13/public_html/wp-content/plugins/elementor/includes/base/controls-stack.php(494): Elementor\Controls_Stack->init_controls()
+#2 /home3/mundod13/public_html/wp-content/plugins/elementor/includes/base/controls-stack.php(300): Elementor\Controls_Stack->get_stack()
+#3 /home3/mundod13/public_html/wp-content/plugins/elementor/includes/base/controls-stack.php(2369): Elementor\Controls_Stack->get_controls()
+#4 /home3/mundod13/public_html/wp-content/plugins/elementor/includes/base/controls-stack.php(1105): Elementor\Controls_Stack->sanitize_settings(Array)
+#5 /home3/mundod13/public_html/wp-content/plugins/exclusive-addons-for-elementor/extensions/link-anything.php(97): Elementor\Controls_Stack->get_data()
+#6 /home3/mundod13/public_html/wp-includes/class-wp-hook.php(307): ExclusiveAddons\Elementor\Link_Anything::before_section_render(Object(Elementor\Element_Section))
+#7 /home3/mundod13/public_html/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#8 /home3/mundod13/public_html/wp-includes/plugin.php(474): WP_Hook->do_action(Array)
+#9 /home3/mundod13/public_html/wp-content/plugins/elementor/includes/base/element-base.php(425): do_action('elementor/front...', Object(Elementor\Element_Section))
+#10 /home3/mundod13/public_html/wp-content/plugins/elementor/core/base/document.php(1565): Elementor\Element_Base->print_element()
+#11 /home3/mundod13/public_html/wp-content/plugins/elementor/core/base/document.php(1016): Elementor\Core\Base\Document->print_elements(Array)
+#12 /home3/mundod13/public_html/wp-content/plugins/elementor/includes/frontend.php(1092): Elementor\Core\Base\Document->print_elements_with_wrapper(Array)
+#13 /home3/mundod13/public_html/wp-content/plugins/elementor/includes/frontend.php(1006): Elementor\Frontend->get_builder_content(99)
+#14 /home3/mundod13/public_html/wp-includes/class-wp-hook.php(307): Elementor\Frontend->apply_builder_in_content('<img src="https...')
+#15 /home3/mundod13/public_html/wp-includes/plugin.php(189): WP_Hook->apply_filters('<img src="https...', Array)
+#16 /home3/mundod13/public_html/wp-includes/post-template.php(253): apply_filters('the_content', '<img src="https...')
+#17 /home3/mundod13/public_html/wp-content/plugins/elementor/modules/page-templates/module.php(190): the_content()
+#18 [internal function]: Elementor\Modules\PageTemplates\Module->print_callback()
+#19 /home3/mundod13/public_html/wp-content/plugins/elementor/modules/page-templates/module.php(207): call_user_func(Array)
+#20 /home3/mundod13/public_html/wp-content/plugins/elementor/modules/page-templates/templates/canvas.php(38): Elementor\Modules\PageTemplates\Module->print_content()
+#21 /home3/mundod13/public_html/wp-includes/template-loader.php(106): include('/home3/mundod13...')
+#22 /home3/mundod13/public_html/wp-blog-header.php(19): require_once('/home3/mundod13...')
+#23 /home3/mundod13/public_html/index.php(17): require('/home3/mundod13...')
+#24 {main}
+  thrown in /home3/mundod13/public_html/wp-content/plugins/elementor/includes/elements/section.php on line 947
+[12-May-2022 03:03:54 UTC] PHP Warning:  Attempt to read property "created_at" on null in /home3/mundod13/public_html/wp-content/plugins/elementor-pro/modules/notes/usage.php on line 160
+[12-May-2022 03:03:54 UTC] PHP Fatal error:  Uncaught Error: Call to a member function format() on null in /home3/mundod13/public_html/wp-content/plugins/elementor-pro/modules/notes/usage.php:161
+Stack trace:
+#0 /home3/mundod13/public_html/wp-content/plugins/elementor-pro/modules/notes/usage.php(43): ElementorPro\Modules\Notes\Usage->get_first_interaction()
+#1 /home3/mundod13/public_html/wp-content/plugins/elementor-pro/modules/notes/usage.php(27): ElementorPro\Modules\Notes\Usage->get_usage_data()
+#2 /home3/mundod13/public_html/wp-includes/class-wp-hook.php(307): ElementorPro\Modules\Notes\Usage->ElementorPro\Modules\Notes\{closure}(Array)
+#3 /home3/mundod13/public_html/wp-includes/plugin.php(189): WP_Hook->apply_filters(Array, Array)
+#4 /home3/mundod13/public_html/wp-content/plugins/elementor/includes/tracker.php(563): apply_filters('elementor/track...', Array)
+#5 /home3/mundod13/public_html/wp-content/plugins/elementor/includes/tracker.php(141): Elementor\Tracker::get_tracking_data(false)
+#6 /home3/mundod13/public_html/wp-includes/class-wp-hook.php(307): Elementor\Tracker::send_tracking_data()
+#7 /home3/mundod13/public_html/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#8 /home3/mundod13/public_html/wp-includes/plugin.php(522): WP_Hook->do_action(Array)
+#9 /home3/mundod13/public_html/wp-cron.php(138): do_action_ref_array('elementor/track...', Array)
+#10 {main}
+  thrown in /home3/mundod13/public_html/wp-content/plugins/elementor-pro/modules/notes/usage.php on line 161
+[23-May-2022 17:11:31 UTC] PHP Warning:  Undefined array key "requires" in /home3/mundod13/public_html/wp-content/plugins/elementor-pro/license/updater.php on line 69
+[23-May-2022 17:11:31 UTC] PHP Warning:  Undefined array key "new_version" in /home3/mundod13/public_html/wp-content/plugins/elementor-pro/license/updater.php on line 84
+[23-May-2022 17:11:31 UTC] PHP Warning:  Undefined array key "requires" in /home3/mundod13/public_html/wp-content/plugins/elementor-pro/license/updater.php on line 69
+[23-May-2022 17:11:31 UTC] PHP Warning:  Undefined array key "new_version" in /home3/mundod13/public_html/wp-content/plugins/elementor-pro/license/updater.php on line 84
+[23-May-2022 17:11:31 UTC] PHP Warning:  Undefined array key "requires" in /home3/mundod13/public_html/wp-content/plugins/elementor-pro/license/updater.php on line 69
+[23-May-2022 17:11:31 UTC] PHP Warning:  Undefined array key "new_version" in /home3/mundod13/public_html/wp-content/plugins/elementor-pro/license/updater.php on line 84
+[23-May-2022 17:11:31 UTC] PHP Warning:  Undefined array key "requires" in /home3/mundod13/public_html/wp-content/plugins/elementor-pro/license/updater.php on line 69
+[23-May-2022 17:11:31 UTC] PHP Warning:  Undefined array key "new_version" in /home3/mundod13/public_html/wp-content/plugins/elementor-pro/license/updater.php on line 84
+[23-May-2022 17:11:31 UTC] PHP Warning:  Undefined array key "requires" in /home3/mundod13/public_html/wp-content/plugins/elementor-pro/license/updater.php on line 69
+[23-May-2022 17:11:31 UTC] PHP Warning:  Undefined array key "new_version" in /home3/mundod13/public_html/wp-content/plugins/elementor-pro/license/updater.php on line 84
+[24-May-2022 02:10:21 UTC] PHP Warning:  Undefined array key "requires" in /home3/mundod13/public_html/wp-content/plugins/elementor-pro/license/updater.php on line 69
+[24-May-2022 02:10:21 UTC] PHP Warning:  Undefined array key "new_version" in /home3/mundod13/public_html/wp-content/plugins/elementor-pro/license/updater.php on line 84
+[24-May-2022 02:10:21 UTC] PHP Warning:  Undefined array key "requires" in /home3/mundod13/public_html/wp-content/plugins/elementor-pro/license/updater.php on line 69
+[24-May-2022 02:10:21 UTC] PHP Warning:  Undefined array key "new_version" in /home3/mundod13/public_html/wp-content/plugins/elementor-pro/license/updater.php on line 84
+[24-May-2022 02:10:21 UTC] PHP Warning:  Undefined array key "requires" in /home3/mundod13/public_html/wp-content/plugins/elementor-pro/license/updater.php on line 69
+[24-May-2022 02:10:21 UTC] PHP Warning:  Undefined array key "new_version" in /home3/mundod13/public_html/wp-content/plugins/elementor-pro/license/updater.php on line 84
+[24-May-2022 02:10:21 UTC] PHP Warning:  Undefined array key "requires" in /home3/mundod13/public_html/wp-content/plugins/elementor-pro/license/updater.php on line 69
+[24-May-2022 02:10:21 UTC] PHP Warning:  Undefined array key "new_version" in /home3/mundod13/public_html/wp-content/plugins/elementor-pro/license/updater.php on line 84
+[24-May-2022 02:10:21 UTC] PHP Warning:  Undefined array key "requires" in /home3/mundod13/public_html/wp-content/plugins/elementor-pro/license/updater.php on line 69
+[24-May-2022 02:10:21 UTC] PHP Warning:  Undefined array key "new_version" in /home3/mundod13/public_html/wp-content/plugins/elementor-pro/license/updater.php on line 84
+[24-May-2022 02:10:21 UTC] PHP Warning:  Undefined array key "requires" in /home3/mundod13/public_html/wp-content/plugins/elementor-pro/license/updater.php on line 69
+[24-May-2022 02:10:21 UTC] PHP Warning:  Undefined array key "new_version" in /home3/mundod13/public_html/wp-content/plugins/elementor-pro/license/updater.php on line 84
+[05-Jun-2022 04:46:06 UTC] Error Deadlock found when trying to get lock; try restarting transaction de la base de datos de WordPress para la consulta DELETE FROM `wpah_options` WHERE `option_name` = '_transient_googlesitekit_remote_features' realizada por require('wp-blog-header.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, Google\Site_Kit\Plugin->Google\Site_Kit\{closure}, Google\Site_Kit\Core\Modules\Modules->__construct, Google\Site_Kit\Core\Util\Feature_Flags::enabled, apply_filters('googlesitekit_is_feature_enabled'), WP_Hook->apply_filters, Google\Site_Kit\Core\Authentication\Authentication->Google\Site_Kit\Core\Util\{closure}, Google\Site_Kit\Core\Authentication\Authentication->filter_features_via_proxy, Google\Site_Kit\Core\Storage\Transients->get, get_transient, delete_option
+[20-Jun-2022 14:10:15 UTC] PHP Warning:  Undefined array key "requires" in /home3/mundod13/public_html/wp-content/plugins/elementor-pro/license/updater.php on line 69
+[20-Jun-2022 14:10:15 UTC] PHP Warning:  Undefined array key "new_version" in /home3/mundod13/public_html/wp-content/plugins/elementor-pro/license/updater.php on line 84
+[20-Jun-2022 14:10:15 UTC] PHP Warning:  Undefined array key "requires" in /home3/mundod13/public_html/wp-content/plugins/elementor-pro/license/updater.php on line 69
+[20-Jun-2022 14:10:15 UTC] PHP Warning:  Undefined array key "new_version" in /home3/mundod13/public_html/wp-content/plugins/elementor-pro/license/updater.php on line 84
+[20-Jun-2022 14:10:15 UTC] PHP Warning:  Undefined array key "requires" in /home3/mundod13/public_html/wp-content/plugins/elementor-pro/license/updater.php on line 69
+[20-Jun-2022 14:10:15 UTC] PHP Warning:  Undefined array key "new_version" in /home3/mundod13/public_html/wp-content/plugins/elementor-pro/license/updater.php on line 84
+[13-Jul-2022 02:21:43 UTC] PHP Warning:  include(/home3/mundod13/public_html/wp-content/plugins/wordpress-seo/vendor/composer/../../lib/model.php): Failed to open stream: No such file or directory in /home3/mundod13/public_html/wp-content/plugins/wordpress-seo/vendor/composer/ClassLoader.php on line 571
+[13-Jul-2022 02:21:43 UTC] PHP Warning:  include(): Failed opening '/home3/mundod13/public_html/wp-content/plugins/wordpress-seo/vendor/composer/../../lib/model.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home3/mundod13/public_html/wp-content/plugins/wordpress-seo/vendor/composer/ClassLoader.php on line 571
+[13-Jul-2022 02:21:43 UTC] PHP Fatal error:  Uncaught Error: Class "Yoast\WP\Lib\Model" not found in /home3/mundod13/public_html/wp-content/plugins/wordpress-seo/src/repositories/indexable-repository.php:102
+Stack trace:
+#0 /home3/mundod13/public_html/wp-content/plugins/wordpress-seo/src/repositories/indexable-repository.php(332): Yoast\WP\SEO\Repositories\Indexable_Repository->query()
+#1 /home3/mundod13/public_html/wp-content/plugins/wordpress-seo/src/repositories/indexable-repository.php(117): Yoast\WP\SEO\Repositories\Indexable_Repository->find_by_id_and_type(857, 'post')
+#2 /home3/mundod13/public_html/wp-content/plugins/wordpress-seo/src/memoizers/meta-tags-context-memoizer.php(97): Yoast\WP\SEO\Repositories\Indexable_Repository->for_current_page()
+#3 /home3/mundod13/public_html/wp-content/plugins/wordpress-seo/src/integrations/front-end/wp-robots-integration.php(87): Yoast\WP\SEO\Memoizers\Meta_Tags_Context_Memoizer->for_current_page()
+#4 /home3/mundod13/public_html/wp-content/plugins/wordpress-seo/src/integrations/front-end/wp-robots-integration.php(73): Yoast\WP\SEO\Integrations\Front_End\WP_Robots_Integration->get_robots_value()
+#5 /home3/mundod13/public_html/wp-includes/class-wp-hook.php(307): Yoast\WP\SEO\Integrations\Front_End\WP_Robots_Integration->add_robots(Array)
+#6 /home3/mundod13/public_html/wp-includes/plugin.php(191): WP_Hook->apply_filters(Array, Array)
+#7 /home3/mundod13/public_html/wp-includes/robots-template.php(32): apply_filters('wp_robots', Array)
+#8 /home3/mundod13/public_html/wp-includes/class-wp-hook.php(307): wp_robots('')
+#9 /home3/mundod13/public_html/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#10 /home3/mundod13/public_html/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#11 /home3/mundod13/public_html/wp-includes/general-template.php(3042): do_action('wp_head')
+#12 /home3/mundod13/public_html/wp-content/plugins/elementor/modules/page-templates/templates/canvas.php(19): wp_head()
+#13 /home3/mundod13/public_html/wp-includes/template-loader.php(106): include('/home3/mundod13...')
+#14 /home3/mundod13/public_html/wp-blog-header.php(19): require_once('/home3/mundod13...')
+#15 /home3/mundod13/public_html/index.php(17): require('/home3/mundod13...')
+#16 {main}
+  thrown in /home3/mundod13/public_html/wp-content/plugins/wordpress-seo/src/repositories/indexable-repository.php on line 102
+[05-Aug-2022 14:04:17 UTC] PHP Warning:  Undefined array key "requires" in /home3/mundod13/public_html/wp-content/plugins/elementor-pro/license/updater.php on line 69
+[05-Aug-2022 14:04:17 UTC] PHP Warning:  Undefined array key "new_version" in /home3/mundod13/public_html/wp-content/plugins/elementor-pro/license/updater.php on line 84
+[05-Aug-2022 14:04:17 UTC] PHP Warning:  Undefined array key "requires" in /home3/mundod13/public_html/wp-content/plugins/elementor-pro/license/updater.php on line 69
+[05-Aug-2022 14:04:17 UTC] PHP Warning:  Undefined array key "new_version" in /home3/mundod13/public_html/wp-content/plugins/elementor-pro/license/updater.php on line 84
+[05-Aug-2022 14:04:17 UTC] PHP Warning:  Undefined array key "requires" in /home3/mundod13/public_html/wp-content/plugins/elementor-pro/license/updater.php on line 69
+[05-Aug-2022 14:04:17 UTC] PHP Warning:  Undefined array key "new_version" in /home3/mundod13/public_html/wp-content/plugins/elementor-pro/license/updater.php on line 84
+[05-Aug-2022 14:04:17 UTC] PHP Warning:  Undefined array key "requires" in /home3/mundod13/public_html/wp-content/plugins/elementor-pro/license/updater.php on line 69
+[05-Aug-2022 14:04:17 UTC] PHP Warning:  Undefined array key "new_version" in /home3/mundod13/public_html/wp-content/plugins/elementor-pro/license/updater.php on line 84
+[05-Aug-2022 14:04:17 UTC] PHP Warning:  Undefined array key "requires" in /home3/mundod13/public_html/wp-content/plugins/elementor-pro/license/updater.php on line 69
+[05-Aug-2022 14:04:17 UTC] PHP Warning:  Undefined array key "new_version" in /home3/mundod13/public_html/wp-content/plugins/elementor-pro/license/updater.php on line 84
+[05-Aug-2022 14:04:17 UTC] PHP Warning:  Undefined array key "requires" in /home3/mundod13/public_html/wp-content/plugins/elementor-pro/license/updater.php on line 69
+[05-Aug-2022 14:04:17 UTC] PHP Warning:  Undefined array key "new_version" in /home3/mundod13/public_html/wp-content/plugins/elementor-pro/license/updater.php on line 84

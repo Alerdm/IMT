@@ -1,0 +1,265 @@
+[30-Dec-2020 21:04:27 UTC] PHP Warning:  Division by zero in /home3/mundod13/public_html/wp-admin/includes/class-custom-image-header.php on line 1194
+[30-Dec-2020 21:14:17 UTC] PHP Warning:  Division by zero in /home3/mundod13/public_html/wp-admin/includes/class-custom-image-header.php on line 1194
+[04-Mar-2021 01:44:30 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home3/mundod13/public_html/wp-admin/includes/theme.php on line 586
+[04-Mar-2021 01:46:14 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home3/mundod13/public_html/wp-admin/includes/theme.php on line 586
+[04-Mar-2021 01:46:30 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home3/mundod13/public_html/wp-admin/includes/theme.php on line 586
+[04-Mar-2021 01:46:39 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home3/mundod13/public_html/wp-admin/includes/theme.php on line 586
+[04-Mar-2021 01:47:35 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home3/mundod13/public_html/wp-admin/includes/theme.php on line 586
+[04-Mar-2021 01:47:48 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home3/mundod13/public_html/wp-admin/includes/theme.php on line 586
+[04-Mar-2021 01:47:50 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home3/mundod13/public_html/wp-admin/includes/theme.php on line 586
+[04-Mar-2021 01:53:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home3/mundod13/public_html/wp-admin/includes/theme.php on line 586
+[04-Mar-2021 01:56:08 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home3/mundod13/public_html/wp-admin/includes/theme.php on line 586
+[04-Mar-2021 01:56:17 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home3/mundod13/public_html/wp-admin/includes/theme.php on line 586
+[04-Mar-2021 01:57:06 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home3/mundod13/public_html/wp-admin/includes/theme.php on line 586
+[04-Mar-2021 01:57:49 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home3/mundod13/public_html/wp-admin/includes/theme.php on line 586
+[04-Mar-2021 01:58:19 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home3/mundod13/public_html/wp-admin/includes/theme.php on line 586
+[04-Mar-2021 01:58:29 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home3/mundod13/public_html/wp-admin/includes/theme.php on line 586
+[04-Mar-2021 01:58:39 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home3/mundod13/public_html/wp-admin/includes/theme.php on line 586
+[28-Oct-2021 05:36:30 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'curl.so' (tried: /opt/cpanel/ea-php74/root/usr/lib64/php/modules/curl.so (libnghttp2.so.14: cannot open shared object file: No such file or directory), /opt/cpanel/ea-php74/root/usr/lib64/php/modules/curl.so.so (/opt/cpanel/ea-php74/root/usr/lib64/php/modules/curl.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[08-Nov-2021 03:46:40 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 32388520 bytes) in /home3/mundod13/public_html/wp-content/plugins/elementor/core/common/modules/ajax/module.php on line 265
+[08-Nov-2021 03:47:29 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 32388520 bytes) in /home3/mundod13/public_html/wp-content/plugins/elementor/core/common/modules/ajax/module.php on line 265
+[08-Nov-2021 03:47:56 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 32388520 bytes) in /home3/mundod13/public_html/wp-content/plugins/elementor/core/common/modules/ajax/module.php on line 265
+[08-Nov-2021 03:48:20 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 32388520 bytes) in /home3/mundod13/public_html/wp-content/plugins/elementor/core/common/modules/ajax/module.php on line 265
+[12-Nov-2021 14:44:13 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 33491968 bytes) in /home3/mundod13/public_html/wp-content/plugins/elementor/core/common/modules/ajax/module.php on line 265
+[12-Nov-2021 14:44:46 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 33491968 bytes) in /home3/mundod13/public_html/wp-content/plugins/elementor/core/common/modules/ajax/module.php on line 265
+[12-Nov-2021 14:46:33 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 33491968 bytes) in /home3/mundod13/public_html/wp-content/plugins/elementor/core/common/modules/ajax/module.php on line 265
+[12-Nov-2021 14:46:41 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 33491968 bytes) in /home3/mundod13/public_html/wp-content/plugins/elementor/core/common/modules/ajax/module.php on line 265
+[12-Nov-2021 14:47:24 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 33491968 bytes) in /home3/mundod13/public_html/wp-content/plugins/elementor/core/common/modules/ajax/module.php on line 265
+[12-Nov-2021 14:49:23 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 31608200 bytes) in /home3/mundod13/public_html/wp-content/plugins/elementor/core/common/modules/ajax/module.php on line 265
+[03-Dec-2021 20:31:45 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 31595344 bytes) in /home3/mundod13/public_html/wp-content/plugins/elementor/core/common/modules/ajax/module.php on line 265
+[03-Dec-2021 20:35:12 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 31595344 bytes) in /home3/mundod13/public_html/wp-content/plugins/elementor/core/common/modules/ajax/module.php on line 265
+[03-Dec-2021 20:35:53 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 31595344 bytes) in /home3/mundod13/public_html/wp-content/plugins/elementor/core/common/modules/ajax/module.php on line 265
+[04-Jul-2022 16:51:27 UTC] PHP Warning:  Undefined array key "HTTP_USER_AGENT" in /home3/mundod13/public_html/wp-content/plugins/shortpixel-image-optimiser/class/Controller/QuotaController.php on line 179
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[10-Aug-2022 21:04:34 UTC] PHP Warning:  Array to string conversion in /home3/mundod13/public_html/wp-includes/formatting.php on line 1098
+[30-Aug-2022 04:45:13 UTC] PHP Warning:  Undefined array key "removeSettingsOnDeletePlugin" in /home3/mundod13/public_html/wp-content/plugins/shortpixel-image-optimiser/class/wp-shortpixel-settings.php on line 196
+[30-Aug-2022 04:45:13 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/mundod13/public_html/wp-content/plugins/shortpixel-image-optimiser/class/wp-shortpixel-settings.php on line 196

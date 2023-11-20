@@ -1,0 +1,282 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.link {
+  color: white !important;
+  transition: color 400ms !important;
+}
+
+.link:hover {
+  color: #53d7ff !important;
+}
+
+.link:focus {
+  color: #53d7ff !important;
+}
+
+
+.content-center {
+  min-height: calc(100vh - 123px - 46px);
+}
+
+.main {
+  display:flex;
+  flex-direction: column;
+}
+
+.news {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.columnasMain {
+  display: flex;
+  flex-grow: 1;
+  margin: auto;
+}
+
+.columna {
+  border: 1px black solid;
+  border-radius: 10px;
+  background-color: #57b6d154;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 33.33vw;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  perspective: 2px;
+  transform-style: preserve-3d;
+  -ms-overflow-style: none;  /* Internet Explorer 10+ */
+  scrollbar-width: none;  /* Firefox */
+  font-family: 'Inter' , sans-serif !important;
+}
+
+body::-webkit-scrollbar { 
+  display: none;  /* Safari and Chrome */
+}
+
+.no-scroll{
+  overflow: hidden;
+}
+
+.nov-carousel {
+  width: 100%;
+}
+
+.news-link {
+  display: flex;
+  justify-content: center;
+  align-items: end;
+  height: inherit;
+  width: inherit;
+  text-decoration: none;
+}
+
+.news-link-card {
+  margin-left: -10%;
+  padding: 15px 15px;
+  height: 45%; 
+  background-color: white;
+  max-width: 50%;
+  min-width: 30%;
+}
+
+.ss-news h1 {
+  font-size: 1.5rem;
+  font-weight: 600;
+  color: rgb(0, 0, 0);
+}
+
+.ss-news h5 {
+  color: #00b9ec;
+}
+
+.ss-news {
+  display: flex;
+  background-color: #00000077;
+  background-size: cover;
+  background-blend-mode: darken;
+  height: 300px;
+  justify-content: center;
+  align-items: end;
+}
+
+.tb-top {
+  border-bottom: 3px solid red;
+}
+
+.logoslider {
+  display: flex;
+  margin: auto;
+  max-width: 768px;
+}
+
+.logos {
+  margin: auto;
+}
+
+.logo {
+  margin: 10px
+}
+
+.swiper-pagination-bullet, .swiper-pagination-bullet {
+  border: 1px solid white !important;
+}
+
+.tb-swiper {
+  max-width: 454px;
+}
+.tb-swiper-slide {
+  text-align: center;
+}
+
+.tb-swiper-slide img {
+  height: 140px;
+  object-fit: cover;
+
+}
+
+.swiper-button-prev, .swiper-button-next {
+  text-shadow: -1px 0 1px #000000c2, 0 1px 1px #000000c2, 1px 0 1px #000000c2, 0 -1px 1px #000000c2, -2px 0 3px #ffffff5c, 0 2px 3px #ffffff5c, 2px 0 3px #ffffff5c, 0 -2px 3px #ffffff5c;
+  color: #53d7ff;
+}
+
+.topic-head {
+  min-height: calc(100vh - 120px);
+  background-size: cover;
+  background-attachment: fixed;
+  display: flex;
+  flex-direction: column-reverse;
+}
+
+.topic-title-and-author {
+  min-height: calc(100vh - 300px - 300px);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  background-image: linear-gradient(#0000009f 75%, rgb(0, 0, 0) 95% );
+  color: white;
+}
+.topic-title {
+  margin-top: 35px;
+  margin-bottom: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: left;
+  max-width: 1024px;
+}
+
+.topic-author-and-date {
+  display: flex;
+  justify-content: space-around;
+}
+
+.topic-separator {
+  height: 35px;
+  background-color: #c0c2c7;
+}
+
+.topic-text {
+  padding-top: 50px;
+  padding-bottom: 50px;
+  margin: auto;
+  max-width: 800px;
+}
+.topic-text h4 {
+  max-width: 60%;
+}
+
+.topic-text p {
+  padding-left: 40px;
+  text-indent: 5px;
+  font-size: 1.175rem;
+  line-height: 1.875rem;
+}
+
+.loading {
+  height: 100%;
+  display: flex;
+}
+
+.loading img {
+  margin: auto;
+}
+
+.navbar {
+  position: sticky !important;
+  top: 0 !important;
+  z-index: 2;
+}
+
+.courses-inscriptions-main {
+  min-height: 70px;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  background-color: #e6e7e8;
+}
+
+.course-link {
+  flex: 1 1;
+  color: #00b9c0;
+  text-decoration: none !important; 
+}
+
+.course-link-div {
+  margin-top: 20px;
+}
+
+.splitter-line {
+  margin: 20px 0px;
+  border: 0.1px solid #00b9c0 ;
+}
+
+.footbar-info-section {
+  display: flex;
+  justify-content: center;
+  justify-content: space-evenly;
+}
+
+.footbar-info-section-box {
+  display: flex;
+  flex-direction: column;
+  width: 20%;
+  color: hwb(180 43% 54%);
+}
+
+.footbar-info-section-box p {
+  padding-left: 33%;
+}
+
+/*# sourceMappingURL=main.chunk.css.map*/

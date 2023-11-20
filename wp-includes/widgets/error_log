@@ -1,0 +1,104 @@
+[07-Aug-2021 03:43:37 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home3/mundod13/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/mundod13/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[08-Aug-2021 19:20:23 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home3/mundod13/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/mundod13/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[11-Aug-2021 03:31:29 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home3/mundod13/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/mundod13/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[20-Aug-2021 15:11:50 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home3/mundod13/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/mundod13/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[20-Aug-2021 21:08:01 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home3/mundod13/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/mundod13/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[24-Aug-2021 02:50:14 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home3/mundod13/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/mundod13/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[25-Aug-2021 00:04:18 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home3/mundod13/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/mundod13/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[25-Aug-2021 00:04:24 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home3/mundod13/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/mundod13/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[27-Aug-2021 00:32:54 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home3/mundod13/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/mundod13/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[27-Aug-2021 10:35:10 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home3/mundod13/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/mundod13/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[27-Aug-2021 14:55:05 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home3/mundod13/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/mundod13/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[09-Sep-2021 18:23:43 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home3/mundod13/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/mundod13/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[09-Sep-2021 19:46:42 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home3/mundod13/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/mundod13/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[10-Sep-2021 11:46:44 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home3/mundod13/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/mundod13/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[12-Sep-2021 04:29:10 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home3/mundod13/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/mundod13/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[13-Sep-2021 08:32:26 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home3/mundod13/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/mundod13/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[13-Sep-2021 10:45:01 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home3/mundod13/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/mundod13/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[15-Sep-2021 08:00:00 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home3/mundod13/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/mundod13/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[17-Sep-2021 09:45:21 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home3/mundod13/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/mundod13/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[19-Sep-2021 08:21:39 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home3/mundod13/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/mundod13/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[19-Sep-2021 16:00:01 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home3/mundod13/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/mundod13/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[20-Sep-2021 05:15:48 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home3/mundod13/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/mundod13/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[20-Sep-2021 09:10:14 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home3/mundod13/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/mundod13/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[20-Sep-2021 21:56:45 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home3/mundod13/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/mundod13/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[21-Sep-2021 05:56:37 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home3/mundod13/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/mundod13/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[21-Sep-2021 07:12:09 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home3/mundod13/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/mundod13/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17

@@ -1,0 +1,4 @@
+[23-Jun-2022 03:09:13 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home3/mundod13/public_html/wp-content/themes/neve/404.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/mundod13/public_html/wp-content/themes/neve/404.php on line 8
