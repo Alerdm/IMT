@@ -6,6 +6,7 @@ import Main from './components/Main'
 import Nosotros from './components/Nosotros'
 import Topic from "./components/Topic";
 import Publications from "./components/Publications";
+import NavBarBottom from "./components/NavBarBottom";
 import "./App.css";
 
 function App() {
@@ -50,6 +51,7 @@ function App() {
   
   return (
     <BrowserRouter>
+        <NavBarBottom />
         <TopBar />
         <div className="content-center">
           <Routes>            
@@ -61,7 +63,7 @@ function App() {
               <Route path="/nosotros" element={<Nosotros />} />
               <Route path="/post/:slug/" element={<Topic  posts={posts} />} />
           </Routes>
-        </div>    
+        </div>
         <FootBar />
     </BrowserRouter>
   );

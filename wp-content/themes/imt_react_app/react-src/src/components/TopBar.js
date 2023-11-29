@@ -8,8 +8,10 @@ function TopBar(){
                 <div className="logoslider">
                     <div className="logos">
                         <Link to={'/'} >
+                            <img className='logo-phone' src={process.env.PUBLIC_URL + '/images/PHONE_UNTREF_LOGO.png'} alt="Logo UNTREF" width="90" height="30" />
+                            <img className='logo-phone' src={process.env.PUBLIC_URL + '/images/PHONE_IMT_LOGO1.png'} alt="Logo IMT" width="67" height="30" />
                             <img className='logo' src={process.env.PUBLIC_URL + '/images/IMT_LOGO1.png'} alt="Logo IMT" width="120" height="60" />
-                            <img className='logo' src={process.env.PUBLIC_URL + '/images/IMT_LOGO2.png'} width="154" height="60" />
+                            <img className='logo' src={process.env.PUBLIC_URL + '/images/IMT_LOGO2.png'} alt="Logo UNTREF" width="154" height="60" />
                         </Link>
                     </div>
                 </div>

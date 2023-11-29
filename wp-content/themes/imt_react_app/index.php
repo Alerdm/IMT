@@ -13,14 +13,14 @@
 
 <meta charset="utf-8" />
     <link rel="shortcut icon" href="/imtwp/wp-content/themes/imt_react_app/images/IMTfavicon.png" />
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Rounded:opsz,wght,FILL,GRAD@48,700,0,200" />
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@40,200,0,-25" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="theme-color" content="#000000" />
     <meta name="description" content="Instituto del Mundo del Trabajo" />
     <title>IMT</title>
-<link href="/imtwp/wp-content/themes/imt_react_app/static/css/0.chunk.css?56a240c9f921ba6d6c12" rel="stylesheet"><link href="/imtwp/wp-content/themes/imt_react_app/static/css/main.chunk.css?56a240c9f921ba6d6c12" rel="stylesheet"></head>
+<link href="/imtwp/wp-content/themes/imt_react_app/static/css/0.chunk.css?5d091511da9a76cf3526" rel="stylesheet"><link href="/imtwp/wp-content/themes/imt_react_app/static/css/main.chunk.css?5d091511da9a76cf3526" rel="stylesheet"></head>
     <body>
       <noscript>
           You need to enable JavaScript to run this app.
@@ -36,6 +36,6 @@
           To begin the development, run `npm run wpstart` or `yarn wpstart`.
           To create a production bundle, use `npm run wpbuild` or `yarn wpbuild`.
       -->
-      <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
-    <script src="/imtwp/wp-content/themes/imt_react_app/static/js/bundle.js?56a240c9f921ba6d6c12"></script><script src="/imtwp/wp-content/themes/imt_react_app/static/js/0.chunk.js?56a240c9f921ba6d6c12"></script><script src="/imtwp/wp-content/themes/imt_react_app/static/js/main.chunk.js?56a240c9f921ba6d6c12"></script></body>
+      <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
+    <script src="/imtwp/wp-content/themes/imt_react_app/static/js/bundle.js?5d091511da9a76cf3526"></script><script src="/imtwp/wp-content/themes/imt_react_app/static/js/0.chunk.js?5d091511da9a76cf3526"></script><script src="/imtwp/wp-content/themes/imt_react_app/static/js/main.chunk.js?5d091511da9a76cf3526"></script></body>
 </html>
