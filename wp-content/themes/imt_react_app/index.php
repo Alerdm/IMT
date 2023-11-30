@@ -20,7 +20,7 @@
     <meta name="theme-color" content="#000000" />
     <meta name="description" content="Instituto del Mundo del Trabajo" />
     <title>IMT</title>
-<link href="/imtwp/wp-content/themes/imt_react_app/static/css/0.chunk.css?5d091511da9a76cf3526" rel="stylesheet"><link href="/imtwp/wp-content/themes/imt_react_app/static/css/main.chunk.css?5d091511da9a76cf3526" rel="stylesheet"></head>
+<link href="/imtwp/wp-content/themes/imt_react_app/static/css/0.chunk.css?bce7c2624763d7f0b4d0" rel="stylesheet"><link href="/imtwp/wp-content/themes/imt_react_app/static/css/main.chunk.css?bce7c2624763d7f0b4d0" rel="stylesheet"></head>
     <body>
       <noscript>
           You need to enable JavaScript to run this app.
@@ -37,5 +37,5 @@
           To create a production bundle, use `npm run wpbuild` or `yarn wpbuild`.
       -->
       <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
-    <script src="/imtwp/wp-content/themes/imt_react_app/static/js/bundle.js?5d091511da9a76cf3526"></script><script src="/imtwp/wp-content/themes/imt_react_app/static/js/0.chunk.js?5d091511da9a76cf3526"></script><script src="/imtwp/wp-content/themes/imt_react_app/static/js/main.chunk.js?5d091511da9a76cf3526"></script></body>
+    <script src="/imtwp/wp-content/themes/imt_react_app/static/js/bundle.js?bce7c2624763d7f0b4d0"></script><script src="/imtwp/wp-content/themes/imt_react_app/static/js/0.chunk.js?bce7c2624763d7f0b4d0"></script><script src="/imtwp/wp-content/themes/imt_react_app/static/js/main.chunk.js?bce7c2624763d7f0b4d0"></script></body>
 </html>
